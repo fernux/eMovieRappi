@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">eMovie</string>
+    <string name="dialog_msg">Se requiere conexión a internet </string>
+    <string name="start">Retry</string>
+</resources>
